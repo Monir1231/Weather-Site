@@ -31,7 +31,7 @@ const ApiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="
         weatherIcon.src = "images/mist.png"
     }
 
-//     document.querySelector(".weather").style.display = "block"
+    document.querySelector(".weather").style.display = "block"
 
 }
 
